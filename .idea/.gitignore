@@ -1,0 +1,11 @@
+# Custom ignored files
+/*.iml
+/*.xml
+
+# Default ignored files
+/dataSources/
+/httpRequests/
+/shelf/
+
+/dataSources.local.xml
+/workspace.xml
